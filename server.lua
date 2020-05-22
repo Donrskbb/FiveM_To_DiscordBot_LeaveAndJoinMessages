@@ -1,4 +1,4 @@
--- Made by Donrskbb --
+-- Made by Donrskbb#0007 --
 
 -- ONLY EDIT BELOW THIS --
 local DISCORD_WEBHOOK = "YOUR WEBHOOK"
