@@ -1,4 +1,4 @@
-# FiveM_To_DiscordBot_LeaveAndJoinMessages
+# ESX_BASED FiveM_To_DiscordBot_LeaveAndJoinMessages
 This is a Discordbot that will show you the people joining and leaving on your FiveM ESX server.
 
 'Leave and Join log', version '1.5'
